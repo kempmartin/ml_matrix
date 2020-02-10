@@ -1,2 +1,2 @@
-# ml_matrix
-Matrix - projekt transformacja
+# ML Matrix czyli projekt transformacja.
+Przyłącz się i zobacz co się stanie.
